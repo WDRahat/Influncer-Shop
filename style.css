@@ -30,7 +30,7 @@ i {
 .bnr-img {
     width: 440px;
     height: 414px;
-    background-image: url(/images/Circle\ design.svg);
+    background-image: url(images/Circle\ design.svg);
 
 }
 
@@ -198,6 +198,7 @@ footer {
 .socal i{
     color: #FFFFFF;
     margin-right: 20px;}
+    
 
 @media screen and (max-width: 560px) {
     .shop-seation {
